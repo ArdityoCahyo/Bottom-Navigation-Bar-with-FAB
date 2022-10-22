@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">plantáu</string>
+
+    <string name="title_fab">Scan</string>
+    <string name="title_home">Home</string>
+    <string name="title_forum">Forum</string>
+    <string name="title_ticket">Tickets</string>
+    <string name="title_myplant">MyPlants</string>
+
+</resources>
